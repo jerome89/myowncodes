@@ -1,1 +1,1 @@
-# Codes by Jerome
+# Codes written by Jerome
