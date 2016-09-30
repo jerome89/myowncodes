@@ -7,7 +7,7 @@ from subprocess import call
 
 url = 'https://www.google.com' # Set desired page to test connection
 device = 'YOUR_ETHERNET_INTERFACE' # Change this parameter to your ethernet interface, can be shown when you type 'ifconfig' in terminal
-log_file_path = '/YOUR_DESIRED_PATH/DESIRED_FILE_NAME.txt' # Set your log file path here...
+log_file_path = '/YOUR_DESIRED_PATH/DESIRED_FILE_NAME.txt' # Set your log file path here... 
 
 def ichker(chk_interval, log):
     drop_count = 0 # Initialize drop count by 0
